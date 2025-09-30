@@ -39,6 +39,9 @@ footer{
 	align-items:center;
 	justify-content:space-between;
 }
+.media-icons{
+	display:flex;
+}
 .media-icons a{
 	margin:15px;
 }
