@@ -1,1 +1,44 @@
 /* your code here */
+*{
+	color:white;
+	list-style:none;
+	text-decoration:none;
+	padding:0px;
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-evenly;
+	margin-top:30px;
+}
+.sections{
+	text-decoration:underline;
+}
+li{
+	margin-bottom:5px
+}
+footer{
+	background-color:black;
+	width:100vw;
+	height:250px;
+	box-sizing:border-box;
+}
+.bottom-details{
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+	background-color:#363434;
+	padding:0px 30px;
+	margin-top:20px;
+}
+.logo_name{
+	font-size:35px;
+	margin-left:20px;
+}
+.top{
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+}
+.media-icons a{
+	margin:15px;
+}
